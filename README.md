@@ -1,4 +1,4 @@
-## Hi! I'm Timóteo 😀 
+## Hi! I'm Timóteo Piano 😀 
 
  <div>
   <a href="https://github.com/trpiano">

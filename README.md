@@ -34,7 +34,7 @@
    ## Contact
  
 <div align="center">
-  <a href="https://wa.me/message/Z4NS6IN6UUL5M1">
+  <a href="https://wa.me/5518996526739">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
   <a href="https://t.me/trpiano" target="_blank">

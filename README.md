@@ -1,37 +1,39 @@
-## Hi! I'm Timóteo Piano 😀 
+## Hi! I'm Timóteo Reinheimer Piano | Software Engineer  | Full-stack | Front-end  😀 
 
- <div>
-  <a href="https://github.com/trpiano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trpiano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trpiano&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="trpiano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="trpiano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="trpiano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="trpiano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="trpiano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br />
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trpiano&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trpiano&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+  ##
+  <div align="center" >
+    <img src="https://skillicons.dev/icons?i=css,html,react,next,vercel,styledcomponents,vue,sass,materialui,bootstrap,git,github,bitbucket,javascript,typescript,nodejs,express,docker,linux,jest,postman,vite,yarn,npm,pnpm,aws,mongodb,postgres,mysql,terraform,figma"     />
+   <br />
+  </div>
+
+  ##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=trpiano&row=1&column=6&theme=dracula&margin-w=15&margin-h=15&no-bg=true"/>
+  </div>
   
   ## Social Midia
  
-<div>
+<div align="center">
   <a href="https://facebook.com/timoteo.piano.9" target="_blank">
    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/timoteopiano.dev" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://twitter.com/PianoTimoteo" target="_blank">
-   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/timoteopiano/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 <br />
  
    ## Contact
  
-<div>
+<div align="center">
   <a href="https://wa.me/message/Z4NS6IN6UUL5M1">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
@@ -41,10 +43,4 @@
   <a href="mailto:timoteopiano@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-</div>
- 
-<div>
- 
- ![Snake animation](https://github.com/trpiano/trpiano/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
